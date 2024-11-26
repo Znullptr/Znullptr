@@ -10,6 +10,9 @@
     <a href="taharjaafer2002@gmail.com">
         <img src="https://img.shields.io/badge/Email-blue?style=flat-square&logo=gmail&logoColor=white" alt="e-mail">
     </a>
+        <a href="https://www.linkedin.com/in/tahar-jaafer-52256922">
+        <img src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
+    </a>
     <a href="https://www.kaggle.com/taharjaafer">
         <img src="https://img.shields.io/badge/Kaggle-blue?style=flat-square&logo=kaggle" alt="Kaggle">
     </a>
