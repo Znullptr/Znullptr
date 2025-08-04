@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Tahar.<br>
-        Currently learning to walk in Data Engineering without falling on my bottom.<br>
+        Currently a data engineer.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <a href="mailto:taharjaafer2002@gmail.com">
